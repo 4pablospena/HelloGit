@@ -1,3 +1,2 @@
-#Hello git.
-
-##Primeros pasos en Git y GitHub. 📡
+Hello git.
+Primeros pasos en Git y GitHub. 📡
